@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Telefono()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Telefono\r\n
+comment1.params=panel\ cadena
+comment1.target=void\ agregarBoton(javax.swing.JPanel,\ java.lang.String)
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ construirVentana()
+comment2.text=\r\n\ \r\n
+numComments=3
